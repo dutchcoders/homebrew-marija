@@ -2,7 +2,7 @@ class Marija < Formula
   desc "Exploration and visualisation of Elasticsearch data"
   homepage "https://github.com/dutchcoders/marija"
   url "https://github.com/dutchcoders/marija.git",
-    :revision => "ae7bb275442373a5389eacdbb01a1c6b6a215c0a"
+    :revision => "62630be1096242e00fae6774fc8d03c27a59b1c3"
   version "201611121359"
 
   depends_on "go" => :build
